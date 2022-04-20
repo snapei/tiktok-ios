@@ -3,4 +3,4 @@
 
 ### 操作步骤
 
-1、下载工具，点击下载>>
+1、下载工具，<a href="https://github.com/eujc/tiktok-ios/releases/download/tiktokios/iOS.v5.1.zip" target="_blank">点击下载>></a>
