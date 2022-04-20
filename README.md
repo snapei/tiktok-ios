@@ -9,6 +9,24 @@
 
 3、下载爱思助手，<a href="https://www.i4.cn/" target="_blank">点击下载>></a>
 
+4、下载 Shadowrocket（小火箭）<br>
+
+    [URL Rewrite]
+    (?<=_region=)CN(?=&) JP 307
+    (?<=&mcc_mnc=)4 2 307
+    ^(https?:\/\/(tnc|dm)[\w-]+\.\w+\.com\/.+)(\?)(.+) $1$3 302
+    (^https?:\/\/*\.\w{4}okv.com\/.+&.+)(\d{2}\.3\.\d)(.+) $118.0$3 302
+
+    [MITM]
+    hostname = *.tiktokv.com,*.byteoversea.com,*.tik-tokapi.com,-*snssdk.com, -*amemv.com
+
+5、在Shadowrocket添加节点
+
+### 如何更改国家和地区：
+默认是日本区，可以更改这行代码中的JP (?<=_region=)CN(?=&) JP 307<br>
+美国示例： (?<=_region=)CN(?=&) US 307<br>
+英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（中国台湾）<br>
+
 
 <br>
 <img src="https://raw.githubusercontent.com/eujc/tiktok-ios/main/%E4%B8%8B%E8%BD%BDAPP-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.jpg" />
