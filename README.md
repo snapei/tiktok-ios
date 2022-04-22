@@ -33,6 +33,10 @@
 美国示例： (?<=_region=)CN(?=&) US 307<br>
 英文简写 JP（日本）｜KR（韩国）｜UK（英国）｜US（美国）｜TW（中国台湾）<br>
 
+### TikTok ipa 文件如果安装不成功，无法安装到手机上
+也可以换【同步推】这个软件安装，操作方法和爱思助手类似 <a href="https://tui.tongbu.com/" target="_blank">点击下载>></a>
+<br>
+
 
 <br>
 <img src="https://raw.githubusercontent.com/eujc/tiktok-ios/main/%E4%B8%8B%E8%BD%BDAPP-%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%981.jpg" />
