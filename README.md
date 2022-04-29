@@ -24,7 +24,7 @@
 5、在Shadowrocket添加节点
 
 美区 Apple ID 申请方法：https://youtu.be/rFeJvozMaDk<br>
-我使用的机场网址：http://t.kxswa.com/<br>
+我使用的机场网址：http://www.txyun.xyz/<br>
 
 
 ### 如何更改国家和地区：
